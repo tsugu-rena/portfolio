@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.851a4ba0.css",
-    "main.js": "/portfolio/static/js/main.ec91b0af.js",
+    "main.js": "/portfolio/static/js/main.3ed9aaee.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/thbn-engage.svg": "/portfolio/static/media/thbn-engage.5242a233bb7b9ff71fcef7505684b0a6.svg",
     "static/media/thbn-endirect.svg": "/portfolio/static/media/thbn-endirect.88ee79f91099752113ef59848cb919e2.svg",
@@ -14,11 +14,11 @@
     "static/media/logo-suetsugu.svg": "/portfolio/static/media/logo-suetsugu.9b2d8204ada7195fc73361a53b3d4730.svg",
     "index.html": "/portfolio/index.html",
     "main.851a4ba0.css.map": "/portfolio/static/css/main.851a4ba0.css.map",
-    "main.ec91b0af.js.map": "/portfolio/static/js/main.ec91b0af.js.map",
+    "main.3ed9aaee.js.map": "/portfolio/static/js/main.3ed9aaee.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.851a4ba0.css",
-    "static/js/main.ec91b0af.js"
+    "static/js/main.3ed9aaee.js"
   ]
 }
