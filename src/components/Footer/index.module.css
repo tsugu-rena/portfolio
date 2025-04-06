@@ -1,0 +1,19 @@
+.footer {
+  background-color: #2f3133;
+  padding: 64px 0 40px;
+  color: #fff;
+
+  .wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .name {
+    font-size: 12px;
+  }
+  .date {
+    font-size: 10px;
+  }
+}
