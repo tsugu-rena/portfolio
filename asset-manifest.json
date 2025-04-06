@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.851a4ba0.css",
+    "main.js": "/portfolio/static/js/main.3ed9aaee.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/thbn-engage.svg": "/portfolio/static/media/thbn-engage.5242a233bb7b9ff71fcef7505684b0a6.svg",
+    "static/media/thbn-endirect.svg": "/portfolio/static/media/thbn-endirect.88ee79f91099752113ef59848cb919e2.svg",
+    "static/media/thbn-entenshoku.svg": "/portfolio/static/media/thbn-entenshoku.9b8fa64fec625419078f19ac3051c49b.svg",
+    "static/media/thbn-koujien.svg": "/portfolio/static/media/thbn-koujien.78dc1f5c99b539ff5820e6d502af669f.svg",
+    "static/media/thbn-graphic.svg": "/portfolio/static/media/thbn-graphic.392246f245818554feab6e44afe22220.svg",
+    "static/media/thbn-saven.svg": "/portfolio/static/media/thbn-saven.cfaf898e02d037cf87043464bbe11a80.svg",
+    "static/media/thbn-code.svg": "/portfolio/static/media/thbn-code.eaf0eb5ad0f3fe88c7ab3d2864635ecd.svg",
+    "static/media/logo-suetsugu-rena.svg": "/portfolio/static/media/logo-suetsugu-rena.8507aba910dae88410c7e752432a0dfd.svg",
+    "static/media/logo-suetsugu.svg": "/portfolio/static/media/logo-suetsugu.9b2d8204ada7195fc73361a53b3d4730.svg",
+    "index.html": "/portfolio/index.html",
+    "main.851a4ba0.css.map": "/portfolio/static/css/main.851a4ba0.css.map",
+    "main.3ed9aaee.js.map": "/portfolio/static/js/main.3ed9aaee.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851a4ba0.css",
+    "static/js/main.3ed9aaee.js"
+  ]
+}
