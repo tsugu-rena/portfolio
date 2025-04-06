@@ -9,8 +9,8 @@ const App: React.FC = () => {
     <Router>
       <Routes>
         <Route path="/portfolio" element={<Home />} />
-        <Route path="./save-n" element={<Saven />} />
-        <Route path="./koujien" element={<Koujien />} />
+        <Route path="/portfolio/save-n" element={<Saven />} />
+        <Route path="/portfolio/koujien" element={<Koujien />} />
       </Routes>
     </Router>
   );
